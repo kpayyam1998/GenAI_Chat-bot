@@ -33,7 +33,7 @@ safety_settings = [
     },
 ]
 
-st.title("Generative AI Chat-Bot")
+st.title("Simple Chat-bot")
 
 prompt=st.text_input(label="Input")
 click=st.button("Click Explain")
